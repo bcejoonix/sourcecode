@@ -41,4 +41,3 @@
     }                                         
     printf ( "%d\n", sum );                   
  }
-#this is test code
